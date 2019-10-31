@@ -1,0 +1,10 @@
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\bin\Debug\netcoreapp3.0\Openlab-03.09.exe
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\bin\Debug\netcoreapp3.0\Openlab-03.09.deps.json
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\bin\Debug\netcoreapp3.0\Openlab-03.09.runtimeconfig.json
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\bin\Debug\netcoreapp3.0\Openlab-03.09.runtimeconfig.dev.json
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\bin\Debug\netcoreapp3.0\Openlab-03.09.dll
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\bin\Debug\netcoreapp3.0\Openlab-03.09.pdb
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\obj\Debug\netcoreapp3.0\Openlab-03.09.AssemblyInfoInputs.cache
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\obj\Debug\netcoreapp3.0\Openlab-03.09.AssemblyInfo.cs
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\obj\Debug\netcoreapp3.0\Openlab-03.09.dll
+C:\Users\Spravca\source\repos\OpenLab-Ulohy\OpenLab-03.09\Openlab-03.09\obj\Debug\netcoreapp3.0\Openlab-03.09.pdb
