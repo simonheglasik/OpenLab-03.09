@@ -8,7 +8,12 @@ namespace OpenLab_03._09
     {
         public bool IsPrimeNubmer(int number)
         {
-            return number % 2 != 0;
+            if (number == 1) return false;
+            for (int i = 2; i < number; i++)
+            {
+                if (number % i == 0) return false;
+            }
+            return true;
         }
     }
 }
